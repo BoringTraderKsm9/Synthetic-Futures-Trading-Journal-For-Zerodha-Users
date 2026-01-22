@@ -1,0 +1,17 @@
+# Core dependencies for Synthetic Futures Trading Journal
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization
+plotly>=5.10.0
+
+# Excel file handling
+openpyxl>=3.0.0
+
+# Note: sqlite3 is part of Python standard library
+
+# Optional: For development
+# jupyter>=1.0.0
+# notebook>=6.4.0
